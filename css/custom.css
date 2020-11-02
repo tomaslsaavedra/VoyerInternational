@@ -7,3 +7,11 @@
 	Note: This is custom css.
 
 **********************************************************************************/
+
+@media only screen (min-width: 900px){
+
+	#titulo2{
+		font-size: 15px
+		}
+	
+}
